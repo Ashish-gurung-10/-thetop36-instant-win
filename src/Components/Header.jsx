@@ -14,9 +14,9 @@ const Header = () => {
                 {/* Navigation Links */}
                 <nav className="hidden sm:flex space-x-8 ">
                     {/* The active link has a distinct style */}
-                    <a href="#" className="text-[#111D5E] bold  font-bold border-b-2 border-[#FF7A00] transition-colors pb-1">INSTANT WIN</a>
-                    <a href="#" className="text-gray-500 hover:text-[#111D5E] font-medium">SPIN WHEEL</a>
-                    <a href="#" className="text-gray-500 hover:text-[#111D5E] font-medium">DAILY DRAW</a>
+                    <a href="https://thetop36-instant-win.onrender.com" className="text-[#111D5E] bold  font-bold border-b-2 border-[#FF7A00] transition-colors pb-1">INSTANT WIN</a>
+                    <a href="https://thetop36-spin-wheel.onrender.com" className="text-gray-500 hover:text-[#111D5E] font-medium">SPIN WHEEL</a>
+                    <a href="https://thetop36-draw-scheduler.onrender.com" className="text-gray-500 hover:text-[#111D5E] font-medium">DAILY DRAW</a>
                 </nav>
             </div>
         </header>
